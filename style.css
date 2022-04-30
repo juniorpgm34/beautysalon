@@ -588,6 +588,10 @@ footer .social a:hover {
     -webkit-font-smothing: antialiased;
   }
 
+   h2.title {
+    font: 700 1.5rem var(--body-font);
+  }
+  
   nav .menu ul li a.title.active {
     font-weight: bold;
     -webkit-font-smothing: auto;
