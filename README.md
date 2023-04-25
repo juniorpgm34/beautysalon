@@ -21,7 +21,7 @@ O BeautySalon é um site responsivo feito com HTML, CSS e JavaScript que apresen
 - JavaScript
 
 ## Visualizando o site
-<a href="https://juniorpgm34.github.io/beautysalon/" target="_blank">Site BeautySalon </a>
+<p><a href="https://juniorpgm34.github.io/beautysalon/" target="_blank">Site BeautySalon</a></p>
 
 ## Contribuição
 
