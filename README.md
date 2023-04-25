@@ -4,7 +4,7 @@
 [![CSS](https://img.shields.io/badge/CSS-3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-O BeautySalon é um site responsivo feito com HTML, CSS e JavaScript que apresenta um menu e animações de transição de cada treço do site. 
+O BeautySalon é um site responsivo feito com HTML, CSS e JavaScript que apresenta um menu e animações de transição de cada trexo do site. 
 
 ## Funcionalidades
 
