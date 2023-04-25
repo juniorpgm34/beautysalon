@@ -8,11 +8,10 @@ O BeautySalon é um site responsivo feito com HTML, CSS e JavaScript que apresen
 
 ## Funcionalidades
 
-- Menu responsivo com animação de transição de assuntos
-- Página Inicial
-- Página de Serviços
-- Página de Produtos
-- Página de Contato
+- Menu responsivo
+- Botão de Voltar ao top
+- Animação de transição de div's 
+- Página estilo Landingpage
 
 ## Tecnologias Utilizadas
 
